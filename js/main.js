@@ -40,3 +40,8 @@ function resizeFrame(){
         }
 }
 
+function returnMsg(){
+    
+    alert("Thanks for reaching out!");
+    //document.querySelector("p").innerHTML = "Thanks for reaching out! Your message was received.";
+}
