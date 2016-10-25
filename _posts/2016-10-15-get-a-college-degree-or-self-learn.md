@@ -3,8 +3,6 @@ layout: post
 title: Get A College Degree Or Self-Learn?
 ---
 
-{:.center}
-![]({{ site.baseurl }}/img/graduation.jpg)
 
 Tech leaders around the country have been making its rounds into the billionaire club without a formal college degree. Think Steve Jobs, Bill Gates, and Mark Zuckerberg, some of the biggest names in the tech industry who dropped out of college. Does this mean you don’t necessarily need a college degree to thrive in tech? 
 
