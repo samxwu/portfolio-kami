@@ -56,7 +56,7 @@ The end product allow listeners to play, pause, or skip fluidly on a collection 
 
 We can further add value to Bloc Jams with the following:
 
->1. Add a short album description
-2. Group albums by category 
-3. Allow listeners easy access to other albums
+ 1. Add a short album description
+ 2. Group albums by category 
+ 3. Allow listeners easy access to other albums
 
