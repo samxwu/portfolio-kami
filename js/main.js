@@ -20,3 +20,23 @@ Array.prototype.forEach.call(elements, function(element) {
      element.parentNode.insertBefore(katexElement, element);
   }
 });
+
+
+// Add event listener to resize demo videos
+window.addEventListener("resize", resizeFrame());
+
+function resizeFrame(){
+    var w = window.outerWidth;
+    var h = window.outerHeight;
+    var vidWidth = w/2;
+    var vidHeight = vidWidth/1.5;
+      
+    var x = document.getElementsByTagName("iframe");
+    for (var i = 0; i < x.length; i++) {
+        x[i].style.maxWidth = vidWidth+"px";
+        x[i].width = vidWidth;
+        x[i].style.maxHeight = vidHeight+"px";
+        x[i].height = vidHeight;
+        }
+}
+
