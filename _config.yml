@@ -73,3 +73,4 @@ sass:
   style: :compressed
 
 gems: [jekyll-paginate]
+gems: ['jekyll_video_tag']

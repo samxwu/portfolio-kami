@@ -22,7 +22,7 @@ The goal of Bloc Jams was to provide students an immersive experience to learn p
 
 Solution: Wrote a function that dynamically updates the text of the `<h2>` tags that contain the song name and the artist name with reference data from current song variables.  
 
-<iframe src="https://bloc-global-assets.s3.amazonaws.com/images-frontend/gifs/Functional%20Next%20and%20Previous%20with%20jQuery/updating_player_bar_song.mp4" frameborder="0" allowfullscreen></iframe>
+{% video https://bloc-global-assets.s3.amazonaws.com/images-frontend/gifs/Functional%20Next%20and%20Previous%20with%20jQuery/updating_player_bar_song.mp4 width=922 height=615 %}
 
 <br>
 
@@ -30,7 +30,7 @@ Solution: Wrote a function that dynamically updates the text of the `<h2>` tags 
 
 Solution: Use two functions to handle two different events: when a listener wants to skip to the next song versus the previous song. Each function provides the functionality of wrapping the skips, automatically playing the new song, updating the player bar with new song information, and displaying the appropriate pause/play buttons. 
 
-<iframe src="https://bloc-global-assets.s3.amazonaws.com/images-frontend/gifs/Functional%20Next%20and%20Previous%20with%20jQuery/functional_next_and_previous_jquery_completed.mp4" frameborder="0" allowfullscreen></iframe>
+{% video https://bloc-global-assets.s3.amazonaws.com/images-frontend/gifs/Functional%20Next%20and%20Previous%20with%20jQuery/functional_next_and_previous_jquery_completed.mp4 width=922 height=615 %}
 
 <br>
 
@@ -39,8 +39,7 @@ Solution: Use two functions to handle two different events: when a listener want
 
 Solution: Listeners are able to increase the volume or forward the song to a specific point by dragging the seekbars on the player bar. Since the two seekbars are almost identical in behavior, we're able to use the same function for both events. Checks were added to determine whether to operate on the player or volume seekbar based what was clicked.
 
-<iframe src="https://bloc-global-assets.s3.amazonaws.com/images-frontend/gifs/Functional%20Seek%20Bars/click_only_seek_bar.mp4" frameborder="0" allowfullscreen></iframe>
-<br>
+{% video https://bloc-global-assets.s3.amazonaws.com/images-frontend/gifs/Functional%20Seek%20Bars/click_only_seek_bar.mp4 width=922 height=615 %}
 
 **4. Simplify development and reduce long code.** 
 
