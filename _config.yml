@@ -72,8 +72,5 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-# gems: [jekyll-paginate]
+gems: [jekyll-paginate]
 
-gems:
-    - jekyll-paginate
-    - jekyll_video_tag
