@@ -74,6 +74,5 @@ sass:
 
 # gems: [jekyll-paginate]
 
-gems:
-    - jekyll-paginate
-    - jekyll_video_tag
+gems: ['jekyll-paginate', 'jekyll_video_tag']
+    
