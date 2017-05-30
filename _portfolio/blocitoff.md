@@ -2,7 +2,7 @@
 layout: post
 title: Bloc-It-Off
 thumbnail-path: "img/bloc_it_off_cover.png"
-short-description: Blocipedia lets you create your own private or public wikis.
+short-description: Bloc-It-Off lets you create self-destructing to-do lists.
 
 ---
 

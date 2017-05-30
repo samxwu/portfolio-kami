@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+title: Resume
 permalink: /about/
 feature-img: "img/color.png"
 ---
 
-Sam Wu is a native New Yorker who loves to explore new places. She is a perpetual learner, is curious at heart, and has a passion for experiencing things she finds interesting.
+{:.center}
+![]({{ site.baseurl }}/img/Resume.jpg)
